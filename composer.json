@@ -3,7 +3,9 @@
     "authors": [
         { "name": "Kerrial Newham", "email": "kerrialbeckettnewham@gmail.com" }
     ],
-    "require": [],
+    "require": {
+
+    },
     "require-dev": {
         "rector/rector": "dev-master",
         "phpunit/phpunit": "^9.3"
